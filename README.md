@@ -2,7 +2,7 @@
 Java Internship Task 1
 
 Work done:
-1.Downloaded and installed OpenJDK from the official OpenJDK source and properly configure the JAVA_HOME environment variable to ensure Java commands work globally across the system.
+1.Downloaded and installed OpenJDK from the official OpenJDK source and properly configure the JAVA_HOME environment variable to ensure Java commands work globally across the system.\n
 2.Verified Java installation by running java -version and javac -version commands to confirm both runtime and compiler are functioning correctly.
 3.Created a new directory structure manually to understand how Java projects are organized at a basic filesystem level.
 4.Wrote a simple Java class using a text editor and define a main() method following correct Java syntax rules.
